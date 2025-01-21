@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` API with certain Android devices.  The camera preview might freeze or display a black screen after a short period. This is intermittent and doesn't always happen, making it hard to debug.
